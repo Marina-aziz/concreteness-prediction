@@ -1,0 +1,2 @@
+k,weighting,emb_type,emb_path,emb_fmt,train_size,test_size,rmse,pearson_corr,pearson_p,spearman_corr,spearman_p
+35,distance,fasttext,crawl-300d-2M-subword.bin,bin,4903,0.1,0.4260767620721142,0.9195254607603643,2.208264066468041e-222,0.9198820007459446,6.953781368548722e-223

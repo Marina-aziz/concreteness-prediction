@@ -1,0 +1,2 @@
+k,weighting,emb_type,emb_path,emb_fmt,train_size,test_size,rmse,pearson_corr,pearson_p,spearman_corr,spearman_p
+20,distance,fasttext,ar_gpt2_sent.vec,vec,161,0.2,0.6910386226715245,0.8519675373289293,1.6221664994115326e-12,0.8294026927815894,2.0828680042711963e-11
